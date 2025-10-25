@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Project Banner" width="400"/>
+  <img src="banner.png" alt="Project Banner" width="300"/>
 </p>
 
 ![Java](https://img.shields.io/badge/language-Java-blue)
