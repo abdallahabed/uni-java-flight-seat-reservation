@@ -14,19 +14,19 @@ A console-based Java program that simulates an airplane seat reservation system 
 
 ---
 
-#🧠 Overview
+## 🧠 Overview
 This project demonstrates **object-oriented programming**, **arrays of objects**, and **user interaction through the console**.  
 It allows users to reserve, cancel, and view seat reservations across multiple rows that have different seat counts.
 
 ---
 
-#🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Java (JDK 8 or later)  
 - Standard I/O
 
 ---
 
-#✨ Features
+## ✨ Features
 - Ragged 2D array structure representing seat rows (2 seats in first 3 rows, 4 in others)  
 - Reserve or cancel a seat by number  
 - Delete all reserved seats at once  
@@ -36,7 +36,7 @@ It allows users to reserve, cancel, and view seat reservations across multiple r
 
 ---
 
-# Sample Output
+## Sample Output
 ```text
 Choose from menu:
 1. Reserve a new empty seat.
@@ -47,7 +47,7 @@ Choose from menu:
 ```
 
 
-#⚙️ Installation
+## ⚙️ Installation
 ```text
 git clone https://github.com/<abdallahabed>/uni-java-flight-seat-reservation.git
 cd uni-java-flight-seat-reservation/src
@@ -55,7 +55,7 @@ javac *.java
 java flight
 ```
 
-#🧪 Usage
+## 🧪 Usage
 ```text
 Run the program
 
@@ -71,7 +71,7 @@ Choose from the menu:
 
 5 → Exit
 ```
-#🧩 What I Learned
+## 🧩 What I Learned
 ```text
 Implemented multi-dimensional (ragged) arrays in Java
 
@@ -81,7 +81,7 @@ Strengthened recursion and menu-based program design
 
 Improved console I/O handling and validation
 ```
-#🏷️ Project Details
+## 🏷️ Project Details
 ```text
 Course: Object-Oriented Programming (Java)
 
