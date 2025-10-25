@@ -41,3 +41,41 @@ Choose from menu:
 3. Delete all reserved seats.
 4. Print map.
 5. Quit.
+
+⚙️ Installation
+git clone https://github.com/<abdallahabed>/uni-java-flight-seat-reservation.git
+cd uni-java-flight-seat-reservation/src
+javac *.java
+java flight
+
+🧪 Usage
+
+Run the program
+
+Choose from the menu:
+
+1 → Reserve a seat
+
+2 → Cancel a reservation
+
+3 → Clear all reservations
+
+4 → Print seat map
+
+5 → Exit
+
+🧩 What I Learned
+
+Implemented multi-dimensional (ragged) arrays in Java
+
+Practiced OOP with custom seat class and encapsulation
+
+Strengthened recursion and menu-based program design
+
+Improved console I/O handling and validation
+
+🏷️ Project Details
+
+Course: Object-Oriented Programming (Java)
+
+Semester: Fall 2025
