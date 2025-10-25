@@ -1,4 +1,4 @@
-![Project Banner](images/banner.png)
+![Project Banner](banner.png)
 ![Java](https://img.shields.io/badge/language-Java-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
@@ -41,15 +41,19 @@ Choose from menu:
 3. Delete all reserved seats.
 4. Print map.
 5. Quit.
+```
 
-⚙️ Installation
+
+##⚙️ Installation
+```text
 git clone https://github.com/<abdallahabed>/uni-java-flight-seat-reservation.git
 cd uni-java-flight-seat-reservation/src
 javac *.java
 java flight
+```
 
-🧪 Usage
-
+##🧪 Usage
+```text
 Run the program
 
 Choose from the menu:
@@ -63,9 +67,9 @@ Choose from the menu:
 4 → Print seat map
 
 5 → Exit
-
-🧩 What I Learned
-
+```
+##🧩 What I Learned
+```text
 Implemented multi-dimensional (ragged) arrays in Java
 
 Practiced OOP with custom seat class and encapsulation
@@ -73,9 +77,10 @@ Practiced OOP with custom seat class and encapsulation
 Strengthened recursion and menu-based program design
 
 Improved console I/O handling and validation
-
-🏷️ Project Details
-
+```
+##🏷️ Project Details
+```text
 Course: Object-Oriented Programming (Java)
 
-Semester: Fall 2025
+Semester: Fall 2023
+```
