@@ -1,4 +1,7 @@
-![Project Banner](banner.png)
+<p align="center">
+  <img src="banner.png" alt="Project Banner" width="600"/>
+</p>
+
 ![Java](https://img.shields.io/badge/language-Java-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
